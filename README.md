@@ -1,8 +1,8 @@
-# Advanced AI, Healthcare, and Cognitive Science Prompts
+# AI-Healthcare-CognitiveScience-Prompts
 
 ## Description
 
-This repository contains a comprehensive collection of advanced prompts designed for use in AI, healthcare, and cognitive science applications. It is intended for AI engineers, healthcare professionals, cognitive scientists, and researchers who seek to leverage AI for transformative solutions.
+This repository houses a diverse collection of advanced prompts for AI-driven healthcare and cognitive science applications. Targeted at AI engineers, healthcare experts, and cognitive researchers, it covers essential topics including drug approval workflows, diagnostics, cognitive computing, and AI red teaming. Each prompt is meticulously crafted with real-world scenarios in mind, providing a practical approach to innovation. The prompts are systematically categorized, facilitating focused exploration and encouraging cross-disciplinary advancements.
 
 ## Key Features
 
