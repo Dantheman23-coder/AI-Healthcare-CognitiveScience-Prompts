@@ -1,37 +1,52 @@
- Contributing to BreadcrumbsAI-Healthcare-CognitiveScience-Prompts
+Contributing to AI-Healthcare-CognitiveScience-Prompts
 
-Thank you for considering contributing to BreadcrumbsAI-Healthcare-CognitiveScience-Prompts! Contributions are welcome from the community, whether you're submitting bug reports, proposing new features, or helping to improve the documentation.
+Thank you for considering a contribution! We welcome improvements to prompts, additions of new categories, and documentation enhancements. This guide explains how to propose changes efficiently and responsibly.
 
-How to Contribute
-1. Reporting Bugs
-If you encounter any bugs or issues, please open an issue in the Issues section of the GitHub repository. Be sure to include:
+How You Can Contribute
 
-A clear and descriptive title
-A detailed description of the issue, including steps to reproduce it
-Any relevant error messages or screenshots
-2. Suggesting Features or Enhancements
-We welcome ideas and feature requests! If you have a suggestion, please open an issue labeled "enhancement" and include:
+1) Report Issues
+- Use GitHub Issues with a clear title and detailed description
+- Include reproduction steps (if relevant), context, and screenshots/logs
 
-A detailed description of the proposed feature or improvement
-The use case or problem it addresses
-Any potential implementation ideas or resources that may help
-3. Submitting Pull Requests
-If you’re ready to contribute code or documentation, follow these steps:
+2) Propose New Prompts or Categories
+- Open an issue labeled "enhancement" describing:
+  - The problem or opportunity
+  - The intended audience and impact
+  - Draft prompt(s) with context and use cases
 
-Fork the repository.
-Create a new branch for your changes (git checkout -b feature/your-feature-name).
-Make your changes, and test them if applicable.
-Ensure your code follows the project’s coding standards.
-Commit your changes with clear commit messages.
-Push to your branch (git push origin feature/your-feature-name).
-Submit a pull request, referencing the issue (if applicable) and providing a summary of the changes.
-4. Improving Documentation
-You can contribute by improving or expanding the documentation, especially the example use cases and advanced techniques. Feel free to submit changes or enhancements via pull requests.
+3) Improve Existing Prompts
+- Submit a pull request that explains:
+  - What you changed and why
+  - How clarity, safety, or usefulness improved
+  - Any references or standards used (e.g., FDA, HIPAA, IEC 62304)
 
-Guidelines
-Code of Conduct: Be respectful, professional, and inclusive. Help us foster a welcoming environment for all.
-Code Style: Please follow any established style guidelines (e.g., Python for scripting). If not explicitly stated, strive for clean, readable, and well-documented code.
-Tests: When contributing new code, ensure that it’s tested. If relevant, include or update existing tests to reflect your changes.
+4) Documentation
+- Improve the README, examples, and guidance. Keep language clear and actionable.
+
+Prompt Style Guide
+
+- Role and Audience: State who the prompt is for (e.g., AI engineer, clinician, regulator)
+- Context First: Include any domain constraints, data sources, and risk factors
+- Clear Task: Use imperative, outcome-oriented language
+- Measurable Output: Prefer outputs with explicit deliverables, metrics, or checklists
+- Safety & Ethics: Note fairness, privacy, and regulatory considerations
+- Reproducibility: If applicable, suggest datasets, benchmarks, or evaluation criteria
+- Brevity: Keep prompts concise while remaining specific
+
+Pull Request Process
+
+1) Fork and create a feature branch: `git checkout -b feature/my-change`
+2) Make edits and ensure consistent formatting and tone
+3) Update documentation where needed
+4) Commit with a descriptive message
+5) Push and open a PR describing rationale, scope, and impact
+6) Link related issues and request review
+
+Code of Conduct
+
+Be respectful, inclusive, and constructive. We foster a welcoming environment for contributors of all backgrounds and expertise levels.
+
 Getting Help
-If you have any questions or need help, feel free to open an issue or reach out to the project maintainers.
+
+Open an issue with questions or ideas. Maintainers monitor discussions and will help guide your contribution.
 
